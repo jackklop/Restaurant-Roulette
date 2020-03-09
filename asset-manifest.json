@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Roulette/static/css/main.1d373d7f.chunk.css",
+    "main.js": "/Restaurant-Roulette/static/js/main.b1775ce7.chunk.js",
+    "main.js.map": "/Restaurant-Roulette/static/js/main.b1775ce7.chunk.js.map",
+    "runtime-main.js": "/Restaurant-Roulette/static/js/runtime-main.b8c7a951.js",
+    "runtime-main.js.map": "/Restaurant-Roulette/static/js/runtime-main.b8c7a951.js.map",
+    "static/js/2.3f75b8ee.chunk.js": "/Restaurant-Roulette/static/js/2.3f75b8ee.chunk.js",
+    "static/js/2.3f75b8ee.chunk.js.map": "/Restaurant-Roulette/static/js/2.3f75b8ee.chunk.js.map",
+    "index.html": "/Restaurant-Roulette/index.html",
+    "precache-manifest.9dc651caf1cc90e2fec5cabbcce8891b.js": "/Restaurant-Roulette/precache-manifest.9dc651caf1cc90e2fec5cabbcce8891b.js",
+    "service-worker.js": "/Restaurant-Roulette/service-worker.js",
+    "static/css/main.1d373d7f.chunk.css.map": "/Restaurant-Roulette/static/css/main.1d373d7f.chunk.css.map",
+    "static/js/2.3f75b8ee.chunk.js.LICENSE.txt": "/Restaurant-Roulette/static/js/2.3f75b8ee.chunk.js.LICENSE.txt",
+    "static/media/hungry-cat.jpg": "/Restaurant-Roulette/static/media/hungry-cat.b8943aa4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c7a951.js",
+    "static/js/2.3f75b8ee.chunk.js",
+    "static/css/main.1d373d7f.chunk.css",
+    "static/js/main.b1775ce7.chunk.js"
+  ]
+}
